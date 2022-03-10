@@ -50,9 +50,11 @@ inputs:
 
   captureBeyondViewport:
     description: 'Should capture beyond the viewport. [boolean] (default: false)'
+    default: false
 
   omitBackground:
     description: 'Should omit the background allowing for transparent images. [boolean] (default: false)'
+    default: false
 
   encoding:
     description: 'Output encoding. [base64, binary]'
