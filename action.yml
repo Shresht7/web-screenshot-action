@@ -55,7 +55,7 @@ inputs:
     description: 'Should omit the background allowing for transparent images. [boolean] (default: false)'
 
   encoding:
-    description: 'Output encoding. ['base64', 'binary']'
+    description: 'Output encoding. [base64, binary]'
 
   # Should Create Artifacts
   # -----------------------
